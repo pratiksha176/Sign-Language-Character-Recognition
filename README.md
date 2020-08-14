@@ -1,5 +1,5 @@
 # Sign-Language-Character-Recognition
-Sign language is used by deaf and hard hearing people to exchange information between their own community and with other people. There is a need for such platforms for such kind of people. Sign Language Character Recognition (SNCHAR) is a complete, complex language that employs signs made by moving the hands combined with facial expressions and postures of the body.
+Sign language is used by deaf and hard hearing people to exchange information between their own community and with other people. There is a need for such platforms for such kind of people. Sign Language Character Recognition (SNCHAR) is a complete, complex language that employs signs made by moving the hands.
 
 
 
